@@ -1,7 +1,8 @@
-def using_while
+def Counter= 1 
+  while counter < 10 
   levitation_force = 6
-	
-  #your code here
+puts "the current number is less then 10."
+  
 end
 
 

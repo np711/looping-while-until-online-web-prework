@@ -1,4 +1,4 @@
-def Counter= 1 
+def Counter= 10 
   while counter < 10 
   levitation_force = 6
 puts "the current number is less then 10."
